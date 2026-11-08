@@ -1,0 +1,174 @@
+2026-11-01 10:15:20 INFO guess_game: Programm gestartet mit ['--level', 'mittel']
+2026-11-01 10:15:33 INFO guess_game: Spiel gestartet: Ben, es rät Ben
+2026-11-01 10:15:33 INFO guess_game: Neue Runde: Stufe mittel
+2026-11-01 10:15:42 DEBUG guess_game.ui: Tipp 14: zu niedrig
+2026-11-01 10:15:46 DEBUG guess_game.ui: Tipp 32: zu hoch
+2026-11-01 10:15:55 DEBUG guess_game.ui: Tipp 22: zu hoch
+2026-11-01 10:15:58 DEBUG guess_game.ui: Tipp 20: zu hoch
+2026-11-01 10:16:01 DEBUG guess_game.ui: Tipp 19: richtig
+2026-11-01 10:16:01 DEBUG guess_game.logic: play_round dauerte 28.5 s
+2026-11-01 10:16:01 INFO guess_game: Gewonnen: Ben – 5 Versuche – 28,5 s · mittel
+2026-11-01 10:16:07 INFO guess_game: Neue Runde: Stufe mittel
+2026-11-01 10:16:16 DEBUG guess_game.ui: Tipp 30: richtig
+2026-11-01 10:16:16 DEBUG guess_game.logic: play_round dauerte 9.0 s
+2026-11-01 10:16:16 INFO guess_game: Gewonnen: Ben – 1 Versuch – 9,0 s · mittel
+2026-11-01 10:16:31 INFO guess_game: Neue Runde: Stufe schwer
+2026-11-01 10:16:36 DEBUG guess_game.ui: Tipp 35: zu niedrig
+2026-11-01 10:16:41 DEBUG guess_game.ui: Tipp 58: zu niedrig
+2026-11-01 10:16:50 DEBUG guess_game.ui: Tipp 79: zu hoch
+2026-11-01 10:16:55 DEBUG guess_game.ui: Tipp 70: zu hoch
+2026-11-01 10:16:57 DEBUG guess_game.ui: Tipp 63: zu niedrig
+2026-11-01 10:16:59 DEBUG guess_game.ui: Tipp 67: zu niedrig
+2026-11-01 10:17:04 DEBUG guess_game.ui: Tipp 68: zu niedrig
+2026-11-01 10:17:04 DEBUG guess_game.logic: play_round dauerte 33.5 s
+2026-11-01 10:17:04 INFO guess_game: Verloren: Ben – 7 Versuche – 33,5 s · schwer
+2026-11-01 10:17:21 INFO guess_game: Programm beendet
+2026-11-01 16:48:02 INFO guess_game: Programm gestartet mit ['--player', 'computer', '--level', 'mittel']
+2026-11-01 16:48:10 INFO guess_game: Spiel gestartet: Emil, es rät Computer
+2026-11-01 16:48:10 INFO guess_game: Neue Runde: Stufe mittel
+2026-11-01 16:48:11 DEBUG guess_game.ui: Tipp 25: zu niedrig
+2026-11-01 16:48:13 DEBUG guess_game.ui: Tipp 38: zu niedrig
+2026-11-01 16:48:16 DEBUG guess_game.ui: Tipp 44: zu hoch
+2026-11-01 16:48:17 DEBUG guess_game.ui: Tipp 41: richtig
+2026-11-01 16:48:17 DEBUG guess_game.logic: play_round dauerte 7.2 s
+2026-11-01 16:48:17 INFO guess_game: Gewonnen: Computer – 4 Versuche – 7,2 s · mittel
+2026-11-01 16:48:29 INFO guess_game: Neue Runde: Stufe schwer
+2026-11-01 16:48:32 DEBUG guess_game.ui: Tipp 50: zu hoch
+2026-11-01 16:48:35 DEBUG guess_game.ui: Tipp 25: zu niedrig
+2026-11-01 16:48:38 DEBUG guess_game.ui: Tipp 37: zu hoch
+2026-11-01 16:48:41 DEBUG guess_game.ui: Tipp 31: zu hoch
+2026-11-01 16:48:44 DEBUG guess_game.ui: Tipp 28: zu hoch
+2026-11-01 16:48:47 DEBUG guess_game.ui: Tipp 26: zu niedrig
+2026-11-01 16:48:50 DEBUG guess_game.ui: Tipp 27: richtig
+2026-11-01 16:48:50 DEBUG guess_game.logic: play_round dauerte 21.4 s
+2026-11-01 16:48:50 INFO guess_game: Gewonnen: Computer – 7 Versuche – 21,4 s · schwer
+2026-11-01 16:48:55 INFO guess_game: Programm beendet
+2026-11-02 18:30:44 INFO guess_game: Programm gestartet mit []
+2026-11-02 18:30:56 INFO guess_game: Spiel gestartet: Anna, es rät Anna
+2026-11-02 18:30:56 INFO guess_game: Neue Runde: Stufe leicht
+2026-11-02 18:31:00 DEBUG guess_game.ui: Tipp 5: zu hoch
+2026-11-02 18:31:03 DEBUG guess_game.ui: Tipp 2: zu niedrig
+2026-11-02 18:31:08 DEBUG guess_game.ui: Tipp 4: richtig
+2026-11-02 18:31:08 DEBUG guess_game.logic: play_round dauerte 12.0 s
+2026-11-02 18:31:08 INFO guess_game: Gewonnen: Anna – 3 Versuche – 12,0 s · leicht
+2026-11-02 18:31:15 INFO guess_game: Neue Runde: Stufe mittel
+2026-11-02 18:31:19 DEBUG guess_game.ui: Tipp 32: zu hoch
+2026-11-02 18:31:22 DEBUG guess_game.ui: Tipp 11: zu niedrig
+2026-11-02 18:31:27 DEBUG guess_game.ui: Tipp 24: richtig
+2026-11-02 18:31:27 DEBUG guess_game.logic: play_round dauerte 12.5 s
+2026-11-02 18:31:27 INFO guess_game: Gewonnen: Anna – 3 Versuche – 12,5 s · mittel
+2026-11-02 18:31:38 INFO guess_game: Neue Runde: Stufe mittel
+2026-11-02 18:31:42 DEBUG guess_game.ui: Tipp 25: zu niedrig
+2026-11-02 18:31:46 DEBUG guess_game.ui: Tipp 33: zu niedrig
+2026-11-02 18:31:50 DEBUG guess_game.ui: Tipp 40: zu hoch
+2026-11-02 18:31:55 DEBUG guess_game.ui: Tipp 34: zu niedrig
+2026-11-02 18:32:03 DEBUG guess_game.ui: Tipp 38: zu hoch
+2026-11-02 18:32:05 DEBUG guess_game.ui: Tipp 35: zu niedrig
+2026-11-02 18:32:12 DEBUG guess_game.ui: Tipp 36: zu niedrig
+2026-11-02 18:32:12 DEBUG guess_game.logic: play_round dauerte 34.1 s
+2026-11-02 18:32:12 INFO guess_game: Verloren: Anna – 7 Versuche – 34,1 s · mittel
+2026-11-02 18:32:29 INFO guess_game: Programm beendet
+2026-11-03 12:02:13 INFO guess_game: Programm gestartet mit ['--name', 'Chiara', '--level', 'schwer']
+2026-11-03 12:02:23 INFO guess_game: Spiel gestartet: Chiara, es rät Chiara
+2026-11-03 12:02:23 INFO guess_game: Neue Runde: Stufe schwer
+2026-11-03 12:02:32 DEBUG guess_game.ui: Tipp 77: richtig
+2026-11-03 12:02:32 DEBUG guess_game.logic: play_round dauerte 9.5 s
+2026-11-03 12:02:32 INFO guess_game: Gewonnen: Chiara – 1 Versuch – 9,5 s · schwer
+2026-11-03 12:02:50 INFO guess_game: Neue Runde: Stufe schwer
+2026-11-03 12:02:55 DEBUG guess_game.ui: Tipp 47: zu hoch
+2026-11-03 12:03:03 DEBUG guess_game.ui: Tipp 17: zu hoch
+2026-11-03 12:03:10 DEBUG guess_game.ui: Tipp 5: zu hoch
+2026-11-03 12:03:12 DEBUG guess_game.ui: Tipp 1: zu niedrig
+2026-11-03 12:03:20 DEBUG guess_game.ui: Tipp 4: zu hoch
+2026-11-03 12:03:27 DEBUG guess_game.ui: Tipp 2: zu niedrig
+2026-11-03 12:03:29 DEBUG guess_game.ui: Tipp 2: zu niedrig
+2026-11-03 12:03:29 DEBUG guess_game.logic: play_round dauerte 39.2 s
+2026-11-03 12:03:29 INFO guess_game: Verloren: Chiara – 7 Versuche – 39,2 s · schwer
+2026-11-03 12:03:47 INFO guess_game: Programm beendet
+2026-11-03 19:55:38 INFO guess_game: Programm gestartet mit ['--name', 'Deniz', '--level', 'mittel']
+2026-11-03 19:55:48 INFO guess_game: Spiel gestartet: Deniz, es rät Deniz
+2026-11-03 19:55:48 INFO guess_game: Neue Runde: Stufe mittel
+2026-11-03 19:55:50 DEBUG guess_game.ui: Tipp 24: zu hoch
+2026-11-03 19:55:54 DEBUG guess_game.ui: Tipp 17: zu hoch
+2026-11-03 19:55:59 DEBUG guess_game.ui: Tipp 5: zu hoch
+2026-11-03 19:56:05 DEBUG guess_game.ui: Tipp 4: richtig
+2026-11-03 19:56:05 DEBUG guess_game.logic: play_round dauerte 17.9 s
+2026-11-03 19:56:05 INFO guess_game: Gewonnen: Deniz – 4 Versuche – 17,9 s · mittel
+2026-11-03 19:56:23 INFO guess_game: Neue Runde: Stufe mittel
+2026-11-03 19:56:32 DEBUG guess_game.ui: Tipp 13: zu hoch
+2026-11-03 19:56:36 DEBUG guess_game.ui: Tipp 3: zu hoch
+2026-11-03 19:56:44 DEBUG guess_game.ui: Tipp 1: zu niedrig
+2026-11-03 19:56:50 DEBUG guess_game.ui: Tipp 1: zu niedrig
+2026-11-03 19:56:58 DEBUG guess_game.ui: Tipp 1: zu niedrig
+2026-11-03 19:57:01 DEBUG guess_game.ui: Tipp 1: zu niedrig
+2026-11-03 19:57:05 DEBUG guess_game.ui: Tipp 1: zu niedrig
+2026-11-03 19:57:05 DEBUG guess_game.logic: play_round dauerte 42.9 s
+2026-11-03 19:57:05 INFO guess_game: Verloren: Deniz – 7 Versuche – 42,9 s · mittel
+2026-11-03 19:57:11 INFO guess_game: Neue Runde: Stufe leicht
+2026-11-03 19:57:18 DEBUG guess_game.ui: Tipp 7: zu hoch
+2026-11-03 19:57:21 DEBUG guess_game.ui: Tipp 4: zu niedrig
+2026-11-03 19:57:27 DEBUG guess_game.ui: Tipp 5: richtig
+2026-11-03 19:57:27 DEBUG guess_game.logic: play_round dauerte 16.6 s
+2026-11-03 19:57:27 INFO guess_game: Gewonnen: Deniz – 3 Versuche – 16,6 s · leicht
+2026-11-03 19:57:41 INFO guess_game: Programm beendet
+2026-11-04 17:21:09 INFO guess_game: Programm gestartet mit ['--player', 'computer']
+2026-11-04 17:21:22 INFO guess_game: Spiel gestartet: Jürgen, es rät Computer
+2026-11-04 17:21:22 INFO guess_game: Neue Runde: Stufe mittel
+2026-11-04 17:21:23 DEBUG guess_game.ui: Tipp 25: zu niedrig
+2026-11-04 17:21:24 DEBUG guess_game.ui: Tipp 38: zu hoch
+2026-11-04 17:21:25 DEBUG guess_game.ui: Tipp 31: richtig
+2026-11-04 17:21:25 DEBUG guess_game.logic: play_round dauerte 3.5 s
+2026-11-04 17:21:25 INFO guess_game: Gewonnen: Computer – 3 Versuche – 3,5 s · mittel
+2026-11-04 17:21:42 INFO guess_game: Neue Runde: Stufe leicht
+2026-11-04 17:21:44 DEBUG guess_game.ui: Tipp 5: richtig
+2026-11-04 17:21:44 DEBUG guess_game.logic: play_round dauerte 2.4 s
+2026-11-04 17:21:44 INFO guess_game: Gewonnen: Computer – 1 Versuch – 2,4 s · leicht
+2026-11-04 17:21:55 INFO guess_game: Programm beendet
+2026-11-05 20:10:50 INFO guess_game: Programm gestartet mit ['--name', 'Anna', '--level', 'mittel']
+2026-11-05 20:11:05 INFO guess_game: Spiel gestartet: Anna, es rät Anna
+2026-11-05 20:11:05 INFO guess_game: Neue Runde: Stufe mittel
+2026-11-05 20:11:12 DEBUG guess_game.ui: Tipp 14: zu hoch
+2026-11-05 20:11:20 DEBUG guess_game.ui: Tipp 5: zu hoch
+2026-11-05 20:11:23 DEBUG guess_game.ui: Tipp 2: zu hoch
+2026-11-05 20:11:29 DEBUG guess_game.ui: Tipp 1: richtig
+2026-11-05 20:11:29 DEBUG guess_game.logic: play_round dauerte 24.0 s
+2026-11-05 20:11:29 INFO guess_game: Gewonnen: Anna – 4 Versuche – 24,0 s · mittel
+2026-11-05 20:11:44 INFO guess_game: Neue Runde: Stufe schwer
+2026-11-05 20:11:49 DEBUG guess_game.ui: Tipp 62: zu hoch
+2026-11-05 20:11:51 DEBUG guess_game.ui: Tipp 40: zu hoch
+2026-11-05 20:11:54 DEBUG guess_game.ui: Tipp 22: richtig
+2026-11-05 20:11:54 DEBUG guess_game.logic: play_round dauerte 10.4 s
+2026-11-05 20:11:54 INFO guess_game: Gewonnen: Anna – 3 Versuche – 10,4 s · schwer
+2026-11-05 20:11:59 INFO guess_game: Neue Runde: Stufe schwer
+2026-11-05 20:12:08 DEBUG guess_game.ui: Tipp 26: zu niedrig
+2026-11-05 20:12:17 DEBUG guess_game.ui: Tipp 79: zu niedrig
+2026-11-05 20:12:24 DEBUG guess_game.ui: Tipp 86: zu niedrig
+2026-11-05 20:12:26 DEBUG guess_game.ui: Tipp 93: zu hoch
+2026-11-05 20:12:28 DEBUG guess_game.ui: Tipp 88: zu niedrig
+2026-11-05 20:12:31 DEBUG guess_game.ui: Tipp 89: zu niedrig
+2026-11-05 20:12:37 DEBUG guess_game.ui: Tipp 90: zu niedrig
+2026-11-05 20:12:37 DEBUG guess_game.logic: play_round dauerte 38.6 s
+2026-11-05 20:12:37 INFO guess_game: Verloren: Anna – 7 Versuche – 38,6 s · schwer
+2026-11-05 20:12:45 INFO guess_game: Programm beendet
+2026-11-06 15:33:27 INFO guess_game: Programm gestartet mit ['--name', 'Emil']
+2026-11-06 15:33:37 INFO guess_game: Spiel gestartet: Emil, es rät Emil
+2026-11-06 15:33:37 INFO guess_game: Neue Runde: Stufe leicht
+2026-11-06 15:33:41 DEBUG guess_game.ui: Tipp 5: zu hoch
+2026-11-06 15:33:45 DEBUG guess_game.ui: Tipp 4: richtig
+2026-11-06 15:33:45 DEBUG guess_game.logic: play_round dauerte 8.6 s
+2026-11-06 15:33:45 INFO guess_game: Gewonnen: Emil – 2 Versuche – 8,6 s · leicht
+2026-11-06 15:34:01 INFO guess_game: Neue Runde: Stufe mittel
+2026-11-06 15:34:07 DEBUG guess_game.ui: Tipp 16: zu hoch
+2026-11-06 15:34:13 DEBUG guess_game.ui: Tipp 4: zu niedrig
+2026-11-06 15:34:21 DEBUG guess_game.ui: Tipp 12: zu hoch
+2026-11-06 15:34:28 DEBUG guess_game.ui: Tipp 7: zu hoch
+2026-11-06 15:34:35 DEBUG guess_game.ui: Tipp 6: zu hoch
+2026-11-06 15:34:43 DEBUG guess_game.ui: Tipp 4: zu niedrig
+2026-11-06 15:34:48 DEBUG guess_game.ui: Tipp 4: zu niedrig
+2026-11-06 15:34:48 DEBUG guess_game.logic: play_round dauerte 47.5 s
+2026-11-06 15:34:48 INFO guess_game: Verloren: Emil – 7 Versuche – 47,5 s · mittel
+2026-11-06 15:35:00 INFO guess_game: Neue Runde: Stufe mittel
+2026-11-06 15:35:02 DEBUG guess_game.ui: Tipp 30: richtig
+2026-11-06 15:35:02 DEBUG guess_game.logic: play_round dauerte 2.5 s
+2026-11-06 15:35:02 INFO guess_game: Gewonnen: Emil – 1 Versuch – 2,5 s · mittel
+2026-11-06 15:35:07 INFO guess_game: Programm beendet

@@ -1,0 +1,3 @@
+Notizen Vorlesung
+- Abgabe Übungsblatt 4 bis Freitag
+- Python-Skript für Statistik testen

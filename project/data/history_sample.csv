@@ -1,0 +1,13 @@
+﻿Datum;Name;Stufe;Versuche;Dauer;gewonnen
+2026-11-02;Anna;leicht;3;12,4;ja
+2026-11-02;Anna;mittel;5;31,0;ja
+2026-11-02;Ben;schwer;7;48,2;nein
+2026-11-03;Computer;schwer;6;0,1;ja
+2026-11-03;Ben;leicht;2;8,9;ja
+2026-11-04;Chiara;mittel;6;40,5;nein
+2026-11-04;Chiara;mittel;4;22,7;ja
+2026-11-05;Anna;schwer;6;55,3;ja
+2026-11-05;Computer;mittel;5;0,1;ja
+2026-11-06;Ben;mittel;6;37,8;nein
+2026-11-06;Jürgen;leicht;4;15,2;ja
+2026-11-07;Anna;schwer;7;61,0;nein

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Schwierigkeitsstufen von Zahlenraten: ein <level>-Element pro Stufe -->
+<!-- name = Stufe, low/high = Zahlenbereich, tries = erlaubte Versuche -->
+<levels>
+  <level name="leicht">
+    <low>1</low>
+    <high>10</high>
+    <tries>5</tries>
+  </level>
+  <level name="mittel">
+    <low>1</low>
+    <high>50</high>
+    <tries>7</tries>
+  </level>
+  <level name="schwer">
+    <low>1</low>
+    <high>100</high>
+    <tries>7</tries>
+  </level>
+</levels>

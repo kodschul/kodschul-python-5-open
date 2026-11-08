@@ -1,0 +1,3 @@
+Notizen zu den Testläufen (keine Log-Datei, log_report.py ignoriert sie)
+2026-11-03: Chiara hat zweimal auf schwer gespielt.
+2026-11-05: Gewonnen: Anna – 2 Versuche – 9,9 s · mittel  (abgeschrieben, nicht aus dem Spiel)

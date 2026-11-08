@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Spiel debuggen (python -m guess_game)",  // Name in der Auswahlliste
+      "type": "debugpy",                // Python-Debugger der Erweiterung „Python“
+      "request": "launch",              // Programm neu starten (nicht an laufendes anhängen)
+      "module": "guess_game",           // wie python -m guess_game
+      "cwd": "${workspaceFolder}/playground",  // Startordner: project/playground
+      "console": "integratedTerminal",  // Ein- und Ausgaben im Terminal unten
+      "justMyCode": true                // nur eigenen Code anhalten, nicht rich/Python-intern
+    },
+    {
+      "name": "Aktuelle Datei debuggen",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${file}",             // die gerade geöffnete .py-Datei
+      "cwd": "${workspaceFolder}",      // Startordner: project/
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}

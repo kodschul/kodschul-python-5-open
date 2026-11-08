@@ -1,0 +1,40 @@
+2026-11-08 08:02:06 INFO Abmeldung: ben
+2026-11-08 08:03:46 INFO Seite geladen in 2406 ms
+2026-11-08 08:03:51 WARN Langsame Antwort: 784 ms
+2026-11-08 08:05:22 ERROR Anmeldung fehlgeschlagen: jonas
+2026-11-08 08:07:38 WARN Speicherplatz unter 15 %
+2026-11-08 08:07:58 WARN Passwort läuft in 3 Tagen ab: jonas
+2026-11-08 08:09:51 ERROR Anmeldung fehlgeschlagen: lena
+2026-11-08 08:11:16 ERROR Datei nicht gefunden: bericht_1.pdf
+2026-11-08 08:12:04 INFO Anmeldung erfolgreich: lena
+2026-11-08 08:14:09 INFO Seite geladen in 2744 ms
+2026-11-08 08:14:35 ERROR Datei nicht gefunden: bericht_6.pdf
+2026-11-08 08:16:12 ERROR Datenbank nicht erreichbar
+2026-11-08 08:17:17 INFO Abmeldung: jonas
+2026-11-08 08:17:29 INFO Seite geladen in 225 ms
+2026-11-08 08:18:30 WARN Langsame Antwort: 3281 ms
+2026-11-08 08:19:01 WARN Langsame Antwort: 2970 ms
+2026-11-08 08:20:16 INFO Abmeldung: lena
+2026-11-08 08:20:34 INFO Abmeldung: ben
+2026-11-08 08:22:35 INFO Seite geladen in 2023 ms
+2026-11-08 08:24:13 INFO Datei hochgeladen: bericht_1.pdf (jonas)
+2026-11-08 08:25:26 ERROR Datenbank nicht erreichbar
+2026-11-08 08:25:33 INFO Datei hochgeladen: bericht_2.pdf (jonas)
+2026-11-08 08:27:10 ERROR Datei nicht gefunden: bericht_1.pdf
+2026-11-08 08:28:37 ERROR Datei nicht gefunden: bericht_2.pdf
+2026-11-08 08:30:56 INFO Seite geladen in 2923 ms
+2026-11-08 08:32:54 ERROR Anmeldung fehlgeschlagen: lena
+2026-11-08 08:33:10 INFO Seite geladen in 2253 ms
+2026-11-08 08:34:20 INFO Anmeldung erfolgreich: anna
+2026-11-08 08:35:33 INFO Datei hochgeladen: bericht_7.pdf (ben)
+2026-11-08 08:35:53 INFO Abmeldung: anna
+2026-11-08 08:36:21 ERROR Anmeldung fehlgeschlagen: jonas
+2026-11-08 08:38:00 INFO Seite geladen in 190 ms
+2026-11-08 08:38:44 ERROR Anmeldung fehlgeschlagen: anna
+2026-11-08 08:39:40 WARN Speicherplatz unter 15 %
+2026-11-08 08:41:04 INFO Seite geladen in 988 ms
+2026-11-08 08:42:49 INFO Anmeldung erfolgreich: lena
+2026-11-08 08:43:15 WARN Langsame Antwort: 1392 ms
+2026-11-08 08:44:06 WARN Passwort läuft in 3 Tagen ab: lena
+2026-11-08 08:44:18 INFO Seite geladen in 352 ms
+2026-11-08 08:45:50 INFO Abmeldung: anna

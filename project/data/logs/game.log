@@ -1,0 +1,62 @@
+2026-11-07 11:04:16 INFO guess_game: Programm gestartet mit ['--name', 'Ben']
+2026-11-07 11:04:28 INFO guess_game: Spiel gestartet: Ben, es rät Ben
+2026-11-07 11:04:28 INFO guess_game: Neue Runde: Stufe schwer
+2026-11-07 11:04:30 DEBUG guess_game.ui: Tipp 62: zu hoch
+2026-11-07 11:04:34 DEBUG guess_game.ui: Tipp 18: zu niedrig
+2026-11-07 11:04:36 DEBUG guess_game.ui: Tipp 45: zu niedrig
+2026-11-07 11:04:40 DEBUG guess_game.ui: Tipp 51: zu niedrig
+2026-11-07 11:04:46 DEBUG guess_game.ui: Tipp 58: zu hoch
+2026-11-07 11:04:51 DEBUG guess_game.ui: Tipp 54: zu hoch
+2026-11-07 11:04:58 DEBUG guess_game.ui: Tipp 52: zu niedrig
+2026-11-07 11:04:58 DEBUG guess_game.logic: play_round dauerte 30.7 s
+2026-11-07 11:04:58 INFO guess_game: Verloren: Ben – 7 Versuche – 30,7 s · schwer
+2026-11-07 11:05:04 INFO guess_game: Neue Runde: Stufe mittel
+2026-11-07 11:05:10 DEBUG guess_game.ui: Tipp 19: zu niedrig
+2026-11-07 11:05:18 DEBUG guess_game.ui: Tipp 40: zu hoch
+2026-11-07 11:05:20 DEBUG guess_game.ui: Tipp 29: zu niedrig
+2026-11-07 11:05:28 DEBUG guess_game.ui: Tipp 33: zu hoch
+2026-11-07 11:05:30 DEBUG guess_game.ui: Tipp 32: richtig
+2026-11-07 11:05:30 DEBUG guess_game.logic: play_round dauerte 26.3 s
+2026-11-07 11:05:30 INFO guess_game: Gewonnen: Ben – 5 Versuche – 26,3 s · mittel
+2026-11-07 11:05:48 INFO guess_game: Programm beendet
+2026-11-07 18:45:01 INFO guess_game: Programm gestartet mit ['--player', 'computer', '--level', 'schwer']
+2026-11-07 18:45:14 INFO guess_game: Spiel gestartet: Chiara, es rät Computer
+2026-11-07 18:45:14 INFO guess_game: Neue Runde: Stufe schwer
+2026-11-07 18:45:17 DEBUG guess_game.ui: Tipp 50: zu niedrig
+2026-11-07 18:45:18 DEBUG guess_game.ui: Tipp 75: zu niedrig
+2026-11-07 18:45:19 DEBUG guess_game.ui: Tipp 88: zu hoch
+2026-11-07 18:45:22 DEBUG guess_game.ui: Tipp 81: zu hoch
+2026-11-07 18:45:23 DEBUG guess_game.ui: Tipp 78: zu hoch
+2026-11-07 18:45:26 DEBUG guess_game.ui: Tipp 76: zu niedrig
+2026-11-07 18:45:27 DEBUG guess_game.ui: Tipp 77: richtig
+2026-11-07 18:45:27 DEBUG guess_game.logic: play_round dauerte 13.9 s
+2026-11-07 18:45:27 INFO guess_game: Gewonnen: Computer – 7 Versuche – 13,9 s · schwer
+2026-11-07 18:45:39 INFO guess_game: Neue Runde: Stufe mittel
+2026-11-07 18:45:41 DEBUG guess_game.ui: Tipp 25: zu niedrig
+2026-11-07 18:45:42 DEBUG guess_game.ui: Tipp 38: zu hoch
+2026-11-07 18:45:44 DEBUG guess_game.ui: Tipp 31: zu hoch
+2026-11-07 18:45:45 DEBUG guess_game.ui: Tipp 28: zu hoch
+2026-11-07 18:45:47 DEBUG guess_game.ui: Tipp 26: richtig
+2026-11-07 18:45:47 DEBUG guess_game.logic: play_round dauerte 8.4 s
+2026-11-07 18:45:47 INFO guess_game: Gewonnen: Computer – 5 Versuche – 8,4 s · mittel
+2026-11-07 18:46:02 INFO guess_game: Neue Runde: Stufe leicht
+2026-11-07 18:46:03 DEBUG guess_game.ui: Tipp 5: zu niedrig
+2026-11-07 18:46:04 DEBUG guess_game.ui: Tipp 8: zu hoch
+2026-11-07 18:46:05 DEBUG guess_game.ui: Tipp 6: richtig
+2026-11-07 18:46:05 DEBUG guess_game.logic: play_round dauerte 3.8 s
+2026-11-07 18:46:05 INFO guess_game: Gewonnen: Computer – 3 Versuche – 3,8 s · leicht
+2026-11-07 18:46:19 INFO guess_game: Programm beendet
+2026-11-07 21:30:40 INFO guess_game: Programm gestartet mit ['--name', 'Anna', '--level', 'mittel']
+2026-11-07 21:30:49 INFO guess_game: Spiel gestartet: Anna, es rät Anna
+2026-11-07 21:30:49 INFO guess_game: Neue Runde: Stufe mittel
+2026-11-07 21:30:58 DEBUG guess_game.ui: Tipp 8: richtig
+2026-11-07 21:30:58 DEBUG guess_game.logic: play_round dauerte 9.0 s
+2026-11-07 21:30:58 INFO guess_game: Gewonnen: Anna – 1 Versuch – 9,0 s · mittel
+2026-11-07 21:31:12 INFO guess_game: Neue Runde: Stufe mittel
+2026-11-07 21:31:19 DEBUG guess_game.ui: Tipp 20: zu niedrig
+2026-11-07 21:31:27 DEBUG guess_game.ui: Tipp 31: zu niedrig
+2026-11-07 21:31:29 DEBUG guess_game.ui: Tipp 44: zu hoch
+2026-11-07 21:31:34 DEBUG guess_game.ui: Tipp 41: richtig
+2026-11-07 21:31:34 DEBUG guess_game.logic: play_round dauerte 22.5 s
+2026-11-07 21:31:34 INFO guess_game: Gewonnen: Anna – 4 Versuche – 22,5 s · mittel
+2026-11-07 21:31:41 INFO guess_game: Programm beendet

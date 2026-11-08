@@ -1,0 +1,10 @@
+# Alle Pakete des Kurses, einmal installieren:  pip install -r requirements.txt
+# Stand: 08.11.2026, getestet mit Python 3.14
+rich==15.0.0            # farbige Ausgabe im Terminal (Lab 6.2)
+requests==2.34.2        # HTTP-Anfragen (Lab 16.1)
+beautifulsoup4==4.15.0  # HTML lesen (Lab 17.1)
+openpyxl==3.1.5         # Excel-Dateien (Lab 17.2)
+regex==2026.11.7        # erweiterte reguläre Ausdrücke (Lab 15.2)
+numpy==2.5.4            # Zahlenreihen (Lab 19.2)
+pandas==3.1.1           # Tabellen auswerten (Lab 19.2)
+matplotlib==3.11.2      # Diagramme (Lab 19.3)

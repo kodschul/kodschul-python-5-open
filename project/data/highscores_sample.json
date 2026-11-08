@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Anna",
+    "level": "leicht",
+    "tries": 3,
+    "seconds": 12.4,
+    "won": true,
+    "date": "2026-11-02"
+  },
+  {
+    "name": "Ben",
+    "level": "mittel",
+    "tries": 5,
+    "seconds": 48.0,
+    "won": true,
+    "date": "2026-11-03"
+  },
+  {
+    "name": "Computer",
+    "level": "schwer",
+    "tries": 6,
+    "seconds": 0.0,
+    "won": true,
+    "date": "2026-11-03"
+  },
+  {
+    "name": "Jürgen",
+    "level": "leicht",
+    "tries": 2,
+    "seconds": 21.7,
+    "won": true,
+    "date": "2026-11-05"
+  },
+  {
+    "name": "Anna",
+    "level": "schwer",
+    "tries": 7,
+    "seconds": 95.3,
+    "won": true,
+    "date": "2026-11-06"
+  },
+  {
+    "name": "Ben",
+    "level": "leicht",
+    "tries": 4,
+    "seconds": 3.2,
+    "won": true,
+    "date": "2026-11-07"
+  }
+]

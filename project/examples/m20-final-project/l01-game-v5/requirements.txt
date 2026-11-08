@@ -1,0 +1,6 @@
+# Pakete für Zahlenraten v5, einmal installieren:  pip install -r requirements.txt
+rich==15.0.0            # farbige Hinweise im Terminal
+openpyxl==3.1.5         # --export excel
+pandas==3.1.1           # analyze.py und Diagramme (bringt numpy mit)
+matplotlib==3.11.2      # Diagramme im HTML-Export
+requests==2.34.2        # fetch_scores.py

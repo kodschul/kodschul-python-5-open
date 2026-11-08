@@ -1,0 +1,16 @@
+# virtuelle Umgebung und Python-Cache
+.venv/
+__pycache__/
+# Dateien, die das Spiel und die Skripte beim Spielen erzeugen
+game.db
+game.log
+savegame.pkl
+highscores.json
+history.csv
+highscores.html
+highscores.xlsx
+chart_tries.png
+chart_win_rate.png
+backups/
+report.txt
+log_report.log

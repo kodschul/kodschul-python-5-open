@@ -1,0 +1,19 @@
+Export Kontakte · erstellt 2026-11-08 · alle Namen und Adressen erfunden
+
+Name: Anna Beispiel
+Straße: Lindenweg 4
+Ort: 10115 Musterstadt
+Telefon: 030 1234567
+
+Name: Ben Muster
+Straße: Am Bach 12a
+Ort: 20095 Beispielhausen
+
+Name: Chiara Probst
+Straße: Gartenstraße 7
+Ort: 80331 Musterdorf
+Telefon: 089 7654321
+
+Name: Deniz Kaya
+Straße: Ringallee 101
+Ort: 50667 Neustadt am Kanal

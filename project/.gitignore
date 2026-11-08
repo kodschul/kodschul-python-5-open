@@ -1,0 +1,47 @@
+# virtuelle Umgebung
+.venv/
+venv/
+# Python-Cache
+__pycache__/
+*.pyc
+.ruff_cache/
+# Dateien, die das Spiel beim Spielen erzeugt
+scores.txt
+highscores.json
+history.csv
+game.log
+savegame.pkl
+game.db
+backups/
+# Umgebungsvariablen
+.env
+!.env.example
+# Betriebssystem und Editor
+.DS_Store
+Thumbs.db
+report.txt
+log_report.log
+grades.log
+highscores.html
+highscores.xlsx
+chart_tries.png
+chart_win_rate.png
+study_report.log
+study_report.txt
+playground/messy_downloads/
+playground/rename_test/
+playground/messy_downloads_backup.zip
+playground/customers.db
+chart_types.png
+population_bar.png
+population_compare.png
+umsatz_regionen.png
+umsatz_regionen.xlsx
+umsatz_top10.png
+growth.png
+# Arbeitsbereich: alles, was dort beim Üben entsteht (nur hello.py gehört zum Kurs-Repo)
+playground/*
+!playground/hello.py
+
+# Testdaten der Demos (Lab 16.3, 19.1) behalten
+!data/logs/*.log
